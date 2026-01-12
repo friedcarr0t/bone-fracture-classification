@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - uncomment if model is too large for GitHub)
+# *.keras
+# *.h5
+# *.pkl
+
+# Data (optional - uncomment if dataset is too large)
+# Bone Break Classification/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
